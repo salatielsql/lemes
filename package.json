@@ -1,0 +1,22 @@
+{
+  "name": "lemes",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "format": "pnpm biome format --fix ./packages/* ./apps/*",
+    "lint": "pnpm biome lint --fix ./packages/* ./apps/*"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "packageManager": "pnpm@10.6.1",
+  "engines": {
+    "node": ">=22.11.0"
+  },
+  "type": "module",
+  "devDependencies": {
+    "@biomejs/biome": "1.9.4"
+  }
+}
