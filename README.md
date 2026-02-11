@@ -1,4 +1,4 @@
-# Lemes (Learning Management System)
+# Lemes - A open-source Learning Management System
 
 The main idea of this project is to create a LMS software that allows anyone to create and manage their own courses. Can use used for independent teachers, entrepreneurs, or even companies that want to create their own internal learning platform.
 
